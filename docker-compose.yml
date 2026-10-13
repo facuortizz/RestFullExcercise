@@ -1,0 +1,19 @@
+services:
+  restapi:
+    build: ./RestApiService
+    container_name: restapi
+    ports:
+      - "8080:8080"
+    environment:
+      - ASPNETCORE_HTTP_PORTS=8080
+    volumes:
+      - sqlite-data:/app/data
+
+  client:
+    build: ./RestApiClient
+    container_name: restapi-client
+    depends_on:
+      - restapi
+
+volumes:
+  sqlite-data:

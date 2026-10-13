@@ -1,0 +1,14 @@
+C:\Users\ortiz\source\repos\RestFullExercise\RestApiClient\bin\Debug\net8.0\RestApiClient.exe
+C:\Users\ortiz\source\repos\RestFullExercise\RestApiClient\bin\Debug\net8.0\RestApiClient.deps.json
+C:\Users\ortiz\source\repos\RestFullExercise\RestApiClient\bin\Debug\net8.0\RestApiClient.runtimeconfig.json
+C:\Users\ortiz\source\repos\RestFullExercise\RestApiClient\bin\Debug\net8.0\RestApiClient.dll
+C:\Users\ortiz\source\repos\RestFullExercise\RestApiClient\bin\Debug\net8.0\RestApiClient.pdb
+C:\Users\ortiz\source\repos\RestFullExercise\RestApiClient\obj\Debug\net8.0\RestApiClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ortiz\source\repos\RestFullExercise\RestApiClient\obj\Debug\net8.0\RestApiClient.AssemblyInfoInputs.cache
+C:\Users\ortiz\source\repos\RestFullExercise\RestApiClient\obj\Debug\net8.0\RestApiClient.AssemblyInfo.cs
+C:\Users\ortiz\source\repos\RestFullExercise\RestApiClient\obj\Debug\net8.0\RestApiClient.csproj.CoreCompileInputs.cache
+C:\Users\ortiz\source\repos\RestFullExercise\RestApiClient\obj\Debug\net8.0\RestApiClient.dll
+C:\Users\ortiz\source\repos\RestFullExercise\RestApiClient\obj\Debug\net8.0\refint\RestApiClient.dll
+C:\Users\ortiz\source\repos\RestFullExercise\RestApiClient\obj\Debug\net8.0\RestApiClient.pdb
+C:\Users\ortiz\source\repos\RestFullExercise\RestApiClient\obj\Debug\net8.0\RestApiClient.genruntimeconfig.cache
+C:\Users\ortiz\source\repos\RestFullExercise\RestApiClient\obj\Debug\net8.0\ref\RestApiClient.dll
